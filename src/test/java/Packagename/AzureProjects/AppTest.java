@@ -18,5 +18,9 @@ public class AppTest
         assertTrue( true );
     }
     
+	
+public void teste2()
+{
+}
     
 }
