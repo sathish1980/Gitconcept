@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTestByprasanth
 {
     /**
      * Rigorous Test :-)
@@ -18,17 +18,5 @@ public class AppTest
         assertTrue( true );
     }
     
-
-    public void testcasebysathish()
-    {
-    	System.out.println("hi");
-    }
-
-	
-public void teste2()
-{
-}
-
-
     
 }
